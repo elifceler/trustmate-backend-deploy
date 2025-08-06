@@ -1,0 +1,236 @@
+[
+
+  {
+  "product_id": "P999",
+  "product": "Kablosuz Şarj Cihazı",
+  "category": "Elektronik",
+  "seller": "CheapSeller",
+  "price": 109.0,
+  "rating": 2.8,
+  "review_count": 3,
+  "stock_status": true,
+  "seller_location": "Unknown",
+  "reviews": [
+    "Harika ürün, herkese tavsiye ederim.",
+    "Mükemmel kalite, süper kargo, teşekkürler.",
+    "Aynı görseldeki gibi, bayıldım."
+  ],
+  "review_dates": [
+    "2024-07-01",
+    "2024-07-01",
+    "2024-07-01"
+  ]
+},
+
+
+  {
+    "product_id": "P001",
+    "product": "Bluetooth Kulaklık",
+    "category": "Elektronik",
+    "seller": "TechGuru",
+    "price": 299.9,
+    "rating": 4.6,
+    "review_count": 10,
+    "stock_status": true,
+    "seller_location": "Unknown",
+    "reviews": [
+      "Kargo çok hızlıydı, ertesi gün elimdeydi.",
+      "Ses kalitesi harika, dış sesleri iyi engelliyor.",
+      "Ürün bozuk geldi ama hemen değişim yaptılar, ilgililerdi.",
+      "Fiyatı biraz pahalı ama kalite olarak hak ediyor.",
+      "Kutusunda hasar vardı ama kulaklık sağlamdı.",
+      "İade süreci beklediğimden kolay geçti.",
+      "Ses seviyesi yeterli ama mikrofonu biraz zayıf.",
+      "Ürün açıklamasıyla birebir uyuyor, memnunum.",
+      "3 gün sürdü gelmesi, fena değil.",
+      "Şarjı uzun gidiyor, memnun kaldım."
+    ],
+    "review_dates": [
+      "2024-07-01",
+      "2024-07-02",
+      "2024-07-03",
+      "2024-07-04",
+      "2024-07-05",
+      "2024-07-06",
+      "2024-07-07",
+      "2024-07-08",
+      "2024-07-09",
+      "2024-07-10"
+    ]
+  },
+  {
+    "product_id": "P001",
+    "product": "Bluetooth Kulaklık",
+    "category": "Elektronik",
+    "seller": "SoundPro",
+    "price": 279.0,
+    "rating": 4.2,
+    "review_count": 10,
+    "stock_status": true,
+    "seller_location": "Unknown",
+    "reviews": [
+      "Ürün 4 günde geldi, biraz yavaştı.",
+      "Ses kalitesi ortalama, çok bir fark göremedim.",
+      "Fiyatına göre beklentimin altında kaldı.",
+      "Mikrofon sesi karşı tarafa net gitmiyor.",
+      "İade etmek istedim ama süreç çok uğraştırıcıydı.",
+      "Kulağa oturması rahat, ergonomisi güzel.",
+      "Kablo girişi gevşekti, teknik servisle uğraşmak zorunda kaldım.",
+      "Şık bir tasarımı var, dış görünüş hoşuma gitti.",
+      "Ürün açıklamasında yazan kutu içeriği eksikti.",
+      "Müşteri hizmetleri geç dönüş yaptı ama ilgilendiler."
+    ],
+    "review_dates": [
+      "2024-07-02",
+      "2024-07-03",
+      "2024-07-04",
+      "2024-07-05",
+      "2024-07-06",
+      "2024-07-07",
+      "2024-07-08",
+      "2024-07-09",
+      "2024-07-10",
+      "2024-07-11"
+    ]
+  },
+  {
+    "product_id": "P001",
+    "product": "Bluetooth Kulaklık",
+    "category": "Elektronik",
+    "seller": "QuickDeal",
+    "price": 249.0,
+    "rating": 4.0,
+    "review_count": 10,
+    "stock_status": true,
+    "seller_location": "Unknown",
+    "reviews": [
+      "Kargo tam bir felaketti, 6 gün sonra geldi.",
+      "Ses kalitesi gayet tatmin edici, özellikle baslar çok iyi.",
+      "İade süreci çok hızlıydı, ertesi gün param yattı.",
+      "Bu fiyata böyle bir performans şaşırtıcı.",
+      "Kutusuz geldiği için tedirgin oldum ama ürün sağlamdı.",
+      "Bluetooth bağlantısı bazen kesiliyor, stabil değil.",
+      "Kulağa büyük geliyor ama yine de rahatsız etmiyor.",
+      "Kullanım kılavuzu eksik geldi, kurulumda zorlandım.",
+      "Mikrofon kalitesi fiyatına göre oldukça iyi.",
+      "Ürün elime geçmeden bile mesajla bilgilendirildim, süper takip sistemi."
+    ],
+    "review_dates": [
+      "2024-07-03",
+      "2024-07-04",
+      "2024-07-05",
+      "2024-07-06",
+      "2024-07-07",
+      "2024-07-08",
+      "2024-07-09",
+      "2024-07-10",
+      "2024-07-11",
+      "2024-07-12"
+    ]
+  },
+  {
+    "product_id": "P002",
+    "product": "Powerbank",
+    "category": "Elektronik",
+    "seller": "VoltMaster",
+    "price": 189.9,
+    "rating": 4.5,
+    "review_count": 10,
+    "stock_status": true,
+    "seller_location": "Unknown",
+    "reviews": [
+      "Gerçekten 20.000 mAh kapasiteyi veriyor, şarjı uzun gidiyor.",
+      "3 cihazı aynı anda şarj edebildim, çok işime yaradı.",
+      "Kargo 2 gün sürdü, hızlıydı.",
+      "Ürün biraz ağır ama sağlam bir hissiyat veriyor.",
+      "USB-C çıkışı bozuk çıktı, değiştirmek zorunda kaldım.",
+      "İade sürecinde çok bekletildim, 1 haftayı geçti.",
+      "Ürün açıklaması tam doğruydu, beklentimi karşıladı.",
+      "Fiyatına göre çok kaliteli, indirimde alınır.",
+      "Kutuda jelatin yoktu, daha önce açılmış gibiydi.",
+      "Şarj hızı gayet iyi, laptop bile doldurabildim."
+    ],
+    "review_dates": [
+      "2024-07-05",
+      "2024-07-06",
+      "2024-07-07",
+      "2024-07-08",
+      "2024-07-09",
+      "2024-07-10",
+      "2024-07-11",
+      "2024-07-12",
+      "2024-07-13",
+      "2024-07-14"
+    ]
+  },
+  {
+    "product_id": "P002",
+    "product": "Powerbank",
+    "category": "Elektronik",
+    "seller": "ChargeZone",
+    "price": 159.0,
+    "rating": 3.9,
+    "review_count": 10,
+    "stock_status": true,
+    "seller_location": "Unknown",
+    "reviews": [
+      "Kargo süresi normaldi, 3 gün içinde geldi.",
+      "Powerbank çok çabuk ısınıyor, biraz endişelendim.",
+      "Kalitesi vasat, plastik hissi veriyor.",
+      "İade etmek istedim ama kargo ücreti benden kesildi.",
+      "Fiyat performans ürünü diyemem, pahalı.",
+      "Yalnızca USB-A çıkışı var, Type-C desteklemiyor.",
+      "Ürün açıklaması eksik, hangi cihazlarla uyumlu belli değil.",
+      "Kutusunda garanti belgesi yoktu.",
+      "Müşteri hizmetleri çok ilgiliydi, tüm sorularımı yanıtladılar.",
+      "Biraz büyük ama kapasitesi yeterli."
+    ],
+    "review_dates": [
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-06",
+      "2024-07-15"
+    ]
+  },
+  {
+    "product_id": "P002",
+    "product": "Powerbank",
+    "category": "Elektronik",
+    "seller": "EcoPower",
+    "price": 139.9,
+    "rating": 4.1,
+    "review_count": 10,
+    "stock_status": true,
+    "seller_location": "Unknown",
+    "reviews": [
+      "Fiyatı çok uygundu, tereddütle aldım ama memnun kaldım.",
+      "Ürün 1 gün içinde kargolandı, çok hızlıydı.",
+      "Şarj kapasitesi yazdığı gibi değil, 2 defa telefon şarj edebildim.",
+      "Mikro USB giriş yeri yamuktu, servise gönderdim.",
+      "Kutu içinden çıkış kablosu eksik çıktı.",
+      "Satıcı ile iletişime geçtim, hemen yeni kablo gönderdiler.",
+      "Şık tasarımı ve mat yüzeyi hoşuma gitti.",
+      "Günlük kullanım için yeterli, ağır değil.",
+      "İade kabul edilmedi, büyük hayal kırıklığı.",
+      "Yorumlara güvenerek aldım, beklentimi karşıladı."
+    ],
+    "review_dates": [
+      "2024-07-07",
+      "2024-07-08",
+      "2024-07-09",
+      "2024-07-10",
+      "2024-07-11",
+      "2024-07-12",
+      "2024-07-13",
+      "2024-07-14",
+      "2024-07-15",
+      "2024-07-16"
+    ]
+  }
+]
